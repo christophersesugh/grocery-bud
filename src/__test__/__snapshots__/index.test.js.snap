@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="tab"
+  data-testid="todo-2"
+>
+  <h1>
+    todo - 
+    <strike>
+      <h1>
+        item 2
+      </h1>
+    </strike>
+  </h1>
+</div>
+`;
